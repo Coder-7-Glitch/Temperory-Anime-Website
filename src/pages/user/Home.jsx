@@ -16,13 +16,13 @@ const Home = () => {
       <Slider />
       <div className="px-4 sm:px-7 md:px-9 lg:px-14 max-w-7xl mx-auto">
         <LatestAnime />
-        {/* <PopularAnime />
+        <PopularAnime />
         <ComedyAnime />
         <BannerCard />
         <RomanceAnime />
         <ActionAnime />
         <RowCard />
-        <MoviesAnime /> */}
+        <MoviesAnime />
       </div>
     </>
   );
